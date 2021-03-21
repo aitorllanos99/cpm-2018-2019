@@ -1,0 +1,12 @@
+ body {
+ 	font-size: 16px;
+	font-family: Gadugi,Helvetica, Geneva, Arial, sans-serif;
+	color: black;}
+
+ h1 {
+ 	font-size: 24px;
+	font-family: Gadugi,Helvetica, Geneva, Arial, sans-serif;
+	color: #ff0000;} 
+
+ ul {
+	list-style-type: circle;}
